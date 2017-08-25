@@ -1,0 +1,8 @@
+minecraft=("Cade")
+print(minecraft)
+poopoo=("dogdoo")
+print(poopoo)
+Camryn=("insane")
+print(Camryn)
+Darryn=("has one messed up computer!")
+print(Darryn)
